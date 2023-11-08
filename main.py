@@ -9,5 +9,5 @@ elif number % 3 == 0:
     print("Feez")
 
 elif number % 5 == 0:
-    print("Buzz")
+    print("Buzz");
 
